@@ -1,0 +1,38 @@
+
+section {
+    padding-top: 20vh;
+    height: 96vh;
+    margin: 0 10rem;
+    box-sizing: border-box;
+    min-height: fit-content;
+  }
+  
+  .section-container {
+    display: flex;
+  }
+  
+ 
+   
+  .marksheet_container {
+    display: flex;
+    height: 300px;
+    width: 300px;
+    margin: auto 0;
+  }
+  
+  .marksheet_container2 {
+    padding-top: 20vh;
+    display: flex;
+    height: 300px;
+    width: 300px;
+    margin: auto 0;
+  }
+ 
+ 
+ 
+  .title {
+    font-size: 3rem;
+    text-align: center;
+  }
+  
+  

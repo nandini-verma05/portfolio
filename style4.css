@@ -1,0 +1,28 @@
+
+section {
+    padding-top: 2vh;
+    height: 96vh;
+    margin: 0 10rem;
+    box-sizing: border-box;
+    min-height: fit-content;
+  }
+  
+  .section-container {
+    display: flex;
+  }
+  
+ 
+   
+  .resume_container {
+    display: flex;
+    height: 800px;
+    width: 800px;
+    margin: auto 0;
+  }
+ 
+  .title {
+    font-size: 3rem;
+    text-align: center;
+  }
+  
+  
